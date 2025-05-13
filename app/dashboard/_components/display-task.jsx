@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 import { useUser } from "@clerk/nextjs";
-import Task from "../../images/Task.webp";
+import Task from "../../images/task.webp";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { toast } from "sonner";
